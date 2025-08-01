@@ -6,7 +6,7 @@ HXD3C="""========================================= Contact wire
 |              / 和谐      \           | 
 |            /        HXD3C \         |
  \------------------------------------/
-    \_·_/                       \_·_/ wheel
+    \_·_/                       \_·_/ Wheels and bogies
 An HXD3C happily running on the railway
 """
 print(f"{HXD3C}")
